@@ -34,8 +34,8 @@ and insure that new time events stay after refreshing the page!
 
 ## Screenshot
 
-![Screenshot]("placeholder")
+![Screenshot](./assets/images/work-day-screenshot.png)
 
 # Link to Deployed Site
 
-"Placeholder"
+https://christinaecb.github.io/Work-Day-Scheduler/
